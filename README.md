@@ -1,5 +1,5 @@
 # notes
 
 - [x] task1
-- [x] task2 
+- [ ] task2 
 - [x] task3
